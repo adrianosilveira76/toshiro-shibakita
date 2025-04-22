@@ -1,8 +1,8 @@
 CREATE TABLE dados (
     AlunoID int,
-    Nome varchar(50),
-    Sobrenome varchar(50),
-    Endereco varchar(150),
-    Cidade varchar(50),
-    Host varchar(50)
+    Nome varchar(60),
+    Sobrenome varchar(60),
+    Endereco varchar(160),
+    Cidade varchar(60),
+    Host varchar(60)
 );
