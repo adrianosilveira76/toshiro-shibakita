@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>Exemplo PHP</title>
+<title>Curso Linux - Exemplo PHP</title>
 </head>
 <body>
 
